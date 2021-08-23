@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+      "name": "yash",
+      "role": "Engineer"
+      
+    },
+    {
+        "id": 2,
+        "name": "arvind",
+        "role": "mechanic"
+    },
+    {
+        "id": 3,
+        "name": "raju",
+        "role": "scientist"
+    }
+]
